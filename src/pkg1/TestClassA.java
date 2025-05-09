@@ -5,6 +5,7 @@ public class TestClassA {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String test = "abc";
+		String test2 = "def";
 	}
 
 }
