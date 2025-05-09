@@ -10,5 +10,16 @@ public class TestClassA {
 		String test4 = "hjk";
 		String test5 = "mno";  // this is added after create branch CR1, change and commit in branch CR1
 	}
+	
+	
+	
+	
+	
+	
+	
+	
+	void method2() {
+		
+	}
 
 }
