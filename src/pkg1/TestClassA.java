@@ -7,6 +7,7 @@ public class TestClassA {
 		String test = "abc";
 		String test2 = "def";
 		String test3 = "ghi";
+		String test4 = "hjk";
 	}
 
 }
