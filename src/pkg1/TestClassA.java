@@ -6,6 +6,7 @@ public class TestClassA {
 		// TODO Auto-generated method stub
 		String test = "abc";
 		String test2 = "def";
+		String test3 = "ghi";
 	}
 
 }
