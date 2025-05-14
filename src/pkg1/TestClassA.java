@@ -20,7 +20,8 @@ public class TestClassA {
 	
 	
 	void method2() {
-		
+		String test3="";		
+			
 	}
 
 }
